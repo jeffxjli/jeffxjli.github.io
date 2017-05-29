@@ -4,9 +4,9 @@
   <subtitle>X</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://jeffxjli.github.io/"/>
   <updated>2017-05-28T12:44:01.059Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://jeffxjli.github.io/</id>
   
   <author>
     <name>jeffxjli</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/05/28/hello-world/"/>
-    <id>http://yoursite.com/2017/05/28/hello-world/</id>
+    <link href="https://jeffxjli.github.io/2017/05/28/hello-world/"/>
+    <id>https://jeffxjli.github.io/2017/05/28/hello-world/</id>
     <published>2017-05-28T12:44:01.059Z</published>
     <updated>2017-05-28T12:44:01.059Z</updated>
     
